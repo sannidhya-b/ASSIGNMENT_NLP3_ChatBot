@@ -32,7 +32,7 @@ The goal of this assignment is to demonstrate foundational knowledge of:
 - Python 3.x  
 - Jupyter Notebook  
 - NLTK (Natural Language Toolkit)  
-- NumPy / Pandas *(if used)*  
+- NumPy / Pandas 
 
 ---
 
