@@ -36,4 +36,4 @@ The goal of this assignment is to demonstrate foundational knowledge of:
 
 ---
 
-## 📂 Project Structure  
+
